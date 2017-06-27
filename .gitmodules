@@ -1,0 +1,3 @@
+[submodule "vendor/submodule_design"]
+	path = vendor/submodule_design
+	url = git@github.com:ms2sato/submodule_design.git
