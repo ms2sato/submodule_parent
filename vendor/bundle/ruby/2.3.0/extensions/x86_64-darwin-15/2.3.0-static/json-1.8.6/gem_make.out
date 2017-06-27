@@ -1,0 +1,13 @@
+current directory: /Users/ms2/dev/samples/rails/submodule/submodule_parent/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+/Users/ms2/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170627-52563-1piu3r0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ms2/dev/samples/rails/submodule/submodule_parent/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/ms2/dev/samples/rails/submodule/submodule_parent/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/ms2/dev/samples/rails/submodule/submodule_parent/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
