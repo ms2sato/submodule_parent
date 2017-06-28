@@ -1,6 +1,7 @@
 ## サブモジュールのテストプロジェクト
 
 https://github.com/ms2sato/submodule_design
+
 を、/vendor/submodule_design に取り込む形で作成されています。
 
 ### cloneの方法
