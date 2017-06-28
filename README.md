@@ -17,7 +17,12 @@ git submodule update -i
 ```
 
 これで、 /vendor/submodule_design内にファイルができるはずです。
-このファイルはassetの仕組みで読み込むように設定されています。
+このファイルはassetの仕組みで読み込むように設定されています（ https://github.com/ms2sato/submodule_parent/blob/master/config/environments/development.rb#L38-L40 ）
+
+
+http://localhost:3000/samples
+
+にアクセスすると、外部のデザインのリポジトリで作ったcssが反映されます。
 
 参考
 http://qiita.com/kinpira/items/3309eb2e5a9a422199e9
