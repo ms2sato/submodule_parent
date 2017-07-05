@@ -8,7 +8,19 @@
 </head>
 <body>
 
-<%= yield %>
+<div class="_container">
+  <div class="_nav-sidebar">
+    basicsで定義されたサイドバー
+  </div>
+  <div class="_column-sidebar">
+    <nav class="_column-nav">
+      basicsで定義されたヘッダー
+    </nav>
+    <div class="_column-sidebar-inner">
+      <%= yield %>
+    </div>
+  </div>
+</div>
 
 </body>
 </html>

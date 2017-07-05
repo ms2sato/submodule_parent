@@ -1,3 +1,6 @@
 [submodule "vendor/submodule_design"]
 	path = vendor/submodule_design
 	url = git@github.com:ms2sato/submodule_design.git
+[submodule "vendor/basics"]
+	path = vendor/basics
+	url = git@github.com:StreetAcademy/Basics.git
